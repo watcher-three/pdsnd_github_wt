@@ -10,8 +10,14 @@ Post Your Work on GitHub
 This project guides the user through local repository manipulation and remote repository communication.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity has been a fantastic learning source.
+
+### About ME
+I just got married on October 13, 2023!!!
 
