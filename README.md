@@ -4,10 +4,10 @@
 October 25, 2023.
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project guides the user through local repository manipulation and remote repository communication.
 
 ### Files used
 Include the files used
