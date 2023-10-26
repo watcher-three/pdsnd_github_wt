@@ -19,7 +19,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = ''
     while city not in CITY_DATA.keys():
-        print("\nWelcome to the Bikeshare Data Analysis project. Please select a city to study:")
+        print("\nWelcome to the Bikeshare Data Analysis Program. Begin by selecting a city to study:")
         print("\nChicago\nNew York City\nWashington\n")
         city = input().lower()
         
